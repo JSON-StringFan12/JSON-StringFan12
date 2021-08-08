@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JSON-StringFan12
-- 👀 I’m interested in your mother
-- 🌱 I’m currently learning how to not be a virgin
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me here yes
+- 👀 I’m interested in getting into Georgia Tech
+- 🌱 I’m currently learning machine learning with Python
+- 💞️ I’m looking to collaborate on anything
 
 <!---
 JSON-StringFan12/JSON-StringFan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
