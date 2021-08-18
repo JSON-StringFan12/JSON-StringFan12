@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JSON-StringFan12
-- 👀 I’m interested in getting into Georgia Tech
+- 👀 I’m interested in getting into a good college
 - 🌱 I’m currently learning machine learning with Python
 - 💞️ I’m looking to collaborate on anything
 
